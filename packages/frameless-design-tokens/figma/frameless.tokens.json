@@ -152,33 +152,51 @@
             "type": "color"
           }
         },
-        "terracotta": {
+        "maroon": {
+          "10": {
+            "value": "#39051f",
+            "type": "color"
+          },
+          "20": {
+            "value": "#55072e",
+            "type": "color"
+          },
           "30": {
-            "value": "#8E300E",
+            "value": "#850b48",
             "type": "color"
           },
           "40": {
-            "value": "#B64116",
+            "value": "#b30f61",
+            "type": "color"
+          }
+        },
+        "terracotta": {
+          "30": {
+            "value": "#99410A",
+            "type": "color"
+          },
+          "40": {
+            "value": "#C9550D",
             "type": "color"
           },
           "50": {
-            "value": "#D35020",
+            "value": "#F06B19",
             "type": "color"
           },
           "60": {
-            "value": "#E87348",
+            "value": "#F38A49",
             "type": "color"
           },
           "70": {
-            "value": "#EE9777",
+            "value": "#F6A979",
             "type": "color"
           },
           "80": {
-            "value": "#F4B9A4",
+            "value": "#F9C8A9",
             "type": "color"
           },
           "90": {
-            "value": "#FCEDE9",
+            "value": "#FDE6D9",
             "type": "color"
           }
         },
@@ -779,12 +797,12 @@
       },
       "interaction": {
         "color": {
-          "value": "{frameless.color.petrol.30}",
+          "value": "{frameless.color.maroon.30}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{frameless.color.petrol.30}",
+            "value": "{frameless.color.maroon.20}",
             "type": "color"
           },
           "inverse": {
@@ -796,7 +814,7 @@
         },
         "hover": {
           "color": {
-            "value": "{frameless.color.petrol.20}",
+            "value": "{frameless.color.maroon.10}",
             "type": "color"
           },
           "inverse": {
@@ -819,11 +837,11 @@
           "type": "color"
         },
         "color": {
-          "value": "{frameless.color.petrol.20}",
+          "value": "{frameless.color.maroon.10}",
           "type": "color"
         },
         "outline-color": {
-          "value": "{frameless.color.petrol.10}",
+          "value": "{frameless.color.maroon.10}",
           "type": "color"
         },
         "inverse": {
@@ -863,7 +881,7 @@
           "type": "borderWidth"
         },
         "color": {
-          "value": "{frameless.color.petrol.20}",
+          "value": "{frameless.color.maroon.10}",
           "type": "color"
         },
         "active": {
@@ -920,7 +938,7 @@
             "type": "borderWidth"
           },
           "color": {
-            "value": "{frameless.color.petrol.20}",
+            "value": "{frameless.color.maroon.10}",
             "type": "color"
           }
         },
@@ -2406,18 +2424,18 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{frameless.color.terracotta.40}"
+          "value": "{frameless.color.petrol.80}"
         },
         "border-color": {
           "type": "color",
-          "value": "transparent"
+          "value": "{frameless.color.petrol.50}"
         },
         "color": {
           "type": "color",
-          "value": "{frameless.color.white}"
+          "value": "{frameless.color.petrol.10}"
         },
         "padding-inline": {
-          "value": "{frameless.space.inline.ant}",
+          "value": "{frameless.space.block.beetle}",
           "type": "spacing"
         },
         "padding-block": {
@@ -4322,7 +4340,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{frameless.color.gold.50}"
+          "value": "{frameless.color.petrol.20}"
         },
         "border-color": {
           "type": "color",
@@ -4330,7 +4348,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{frameless.color.petrol.90}"
+          "value": "{frameless.color.white}"
         }
       }
     }
