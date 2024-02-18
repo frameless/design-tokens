@@ -124,7 +124,7 @@
             "type": "color"
           },
           "30": {
-            "value": "#2F606A",
+            "value": "#2c5a63",
             "type": "color"
           },
           "40": {
@@ -260,7 +260,7 @@
             "type": "color"
           },
           "90": {
-            "value": "#FDE7E7",
+            "value": "#FDECEC",
             "type": "color"
           }
         },
