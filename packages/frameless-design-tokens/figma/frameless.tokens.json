@@ -188,31 +188,31 @@
         },
         "gold": {
           "30": {
-            "value": "#876e1d",
+            "value": "#876E1D",
             "type": "color"
           },
           "40": {
-            "value": "#b19025",
+            "value": "#B19025",
             "type": "color"
           },
           "50": {
-            "value": "#d4af37",
+            "value": "#D4AF37",
             "type": "color"
           },
           "60": {
-            "value": "#ddc05f",
+            "value": "#DDC05F",
             "type": "color"
           },
           "70": {
-            "value": "#e6d089",
+            "value": "#E6D089",
             "type": "color"
           },
           "80": {
-            "value": "#efe1b3",
+            "value": "#EFE1B3",
             "type": "color"
           },
           "90": {
-            "value": "#f8f2dd",
+            "value": "#F8F2DD",
             "type": "color"
           }
         },
