@@ -158,31 +158,31 @@
         },
         "terracotta": {
           "30": {
-            "value": "#8e300e",
+            "value": "#8E300E",
             "type": "color"
           },
           "40": {
-            "value": "#b64116",
+            "value": "#B64116",
             "type": "color"
           },
           "50": {
-            "value": "#d35020",
+            "value": "#D35020",
             "type": "color"
           },
           "60": {
-            "value": "#e87348",
+            "value": "#E87348",
             "type": "color"
           },
           "70": {
-            "value": "#ee9777",
+            "value": "#EE9777",
             "type": "color"
           },
           "80": {
-            "value": "#f4b9a4",
+            "value": "#F4B9A4",
             "type": "color"
           },
           "90": {
-            "value": "#f9dcd2",
+            "value": "#F9DCD2",
             "type": "color"
           }
         },
