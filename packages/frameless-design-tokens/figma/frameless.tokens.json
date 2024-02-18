@@ -178,7 +178,7 @@
             "type": "color"
           },
           "90": {
-            "value": "#F9DCD2",
+            "value": "#FCEDE9",
             "type": "color"
           }
         },
@@ -1477,7 +1477,7 @@
     "todo": {
       "backdrop": {
         "background-color": {
-          "value": "{frameless.color.black}",
+          "value": "{frameless.color.gray.90}",
           "type": "color"
         },
         "color": {
@@ -2406,7 +2406,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{frameless.color.gold.50}"
+          "value": "{frameless.color.terracotta.40}"
         },
         "border-color": {
           "type": "color",
@@ -2414,7 +2414,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{frameless.color.petrol.90}"
+          "value": "{frameless.color.white}"
         },
         "padding-inline": {
           "value": "{frameless.space.inline.ant}",
@@ -2860,7 +2860,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{frameless.color.gray.50}",
+            "value": "{frameless.color.gray.40}",
             "type": "color"
           }
         }
