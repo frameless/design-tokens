@@ -64,6 +64,11 @@
           "primary": {
             "value": "Fira Sans, Helvetica, Arial, sans-serif",
             "type": "fontFamilies"
+          },
+          "secondary": {
+            "value": "Oswald",
+            "type": "fontFamilies",
+            "description": "Used for the Frameless logo"
           }
         }
       },
@@ -150,83 +155,27 @@
           "90": {
             "value": "#D4F2F7",
             "type": "color"
+          },
+          "95": {
+            "value": "#e9f8fb",
+            "type": "color"
           }
         },
         "maroon": {
           "10": {
-            "value": "#39051f",
+            "value": "#39051F",
             "type": "color"
           },
           "20": {
-            "value": "#55072e",
+            "value": "#55072E",
             "type": "color"
           },
           "30": {
-            "value": "#850b48",
+            "value": "#850B48",
             "type": "color"
           },
           "40": {
-            "value": "#b30f61",
-            "type": "color"
-          }
-        },
-        "terracotta": {
-          "30": {
-            "value": "#99410A",
-            "type": "color"
-          },
-          "40": {
-            "value": "#C9550D",
-            "type": "color"
-          },
-          "50": {
-            "value": "#F06B19",
-            "type": "color"
-          },
-          "60": {
-            "value": "#F38A49",
-            "type": "color"
-          },
-          "70": {
-            "value": "#F6A979",
-            "type": "color"
-          },
-          "80": {
-            "value": "#F9C8A9",
-            "type": "color"
-          },
-          "90": {
-            "value": "#FDE6D9",
-            "type": "color"
-          }
-        },
-        "gold": {
-          "30": {
-            "value": "#876E1D",
-            "type": "color"
-          },
-          "40": {
-            "value": "#B19025",
-            "type": "color"
-          },
-          "50": {
-            "value": "#D4AF37",
-            "type": "color"
-          },
-          "60": {
-            "value": "#DDC05F",
-            "type": "color"
-          },
-          "70": {
-            "value": "#E6D089",
-            "type": "color"
-          },
-          "80": {
-            "value": "#EFE1B3",
-            "type": "color"
-          },
-          "90": {
-            "value": "#F8F2DD",
+            "value": "#B30F61",
             "type": "color"
           }
         },
@@ -309,8 +258,8 @@
           }
         },
         "highlighter": {
-          "blue": {
-            "value": "#05EEF4",
+          "green": {
+            "value": "#9DFF40",
             "type": "color"
           }
         }
@@ -833,20 +782,20 @@
       },
       "focus": {
         "background-color": {
-          "value": "{frameless.color.highlighter.blue}",
+          "value": "{frameless.color.highlighter.green}",
           "type": "color"
         },
         "color": {
-          "value": "{frameless.color.maroon.10}",
+          "value": "{frameless.color.black}",
           "type": "color"
         },
         "outline-color": {
-          "value": "{frameless.color.maroon.10}",
+          "value": "{frameless.color.black}",
           "type": "color"
         },
         "inverse": {
           "outline-color": {
-            "value": "{frameless.color.highlighter.blue}",
+            "value": "{frameless.color.highlighter.green}",
             "type": "color"
           }
         },
@@ -865,7 +814,7 @@
       },
       "form-control": {
         "accent-color": {
-          "value": "{utrecht.interaction.color}",
+          "value": "{frameless.color.petrol.50}",
           "type": "color"
         },
         "background-color": {
@@ -881,12 +830,12 @@
           "type": "borderWidth"
         },
         "color": {
-          "value": "{frameless.color.maroon.10}",
+          "value": "{frameless.color.petrol.20}",
           "type": "color"
         },
         "active": {
           "accent-color": {
-            "value": "{utrecht.interaction.active.color}",
+            "value": "{frameless.color.petrol.40}",
             "type": "color"
           },
           "background-color": {
