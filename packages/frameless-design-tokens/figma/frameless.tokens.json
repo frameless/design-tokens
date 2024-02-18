@@ -657,7 +657,7 @@
             "y": "2",
             "blur": "6",
             "spread": "0",
-            "color": "{frameless.color.black}",
+            "color": "{frameless.color.gray.90}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -668,7 +668,7 @@
             "y": "8",
             "blur": "16",
             "spread": "0",
-            "color": "{frameless.color.black}",
+            "color": "{frameless.color.gray.90}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -679,7 +679,7 @@
             "y": "16",
             "blur": "48",
             "spread": "0",
-            "color": "{frameless.color.black}",
+            "color": "{frameless.color.gray.90}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
