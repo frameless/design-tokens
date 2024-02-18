@@ -4,11 +4,11 @@
       "typography": {
         "font-size": {
           "sm": {
-            "value": "14px",
+            "value": "16px",
             "type": "fontSizes"
           },
           "md": {
-            "value": "16px",
+            "value": "18px",
             "type": "fontSizes"
           },
           "lg": {
@@ -62,10 +62,6 @@
         },
         "font-family": {
           "primary": {
-            "value": "Fira Sans, Helvetica, Arial, sans-serif",
-            "type": "fontFamilies"
-          },
-          "secondary": {
             "value": "Fira Sans, Helvetica, Arial, sans-serif",
             "type": "fontFamilies"
           }
