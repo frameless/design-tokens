@@ -183,7 +183,23 @@
             "type": "color"
           },
           "60": {
-            "value": "#ef3994",
+            "value": "#EF3994",
+            "type": "color"
+          },
+          "70": {
+            "value": "#F368AD",
+            "type": "color"
+          },
+          "80": {
+            "value": "#fF97C7",
+            "type": "color"
+          },
+          "90": {
+            "value": "#FFCCE4",
+            "type": "color"
+          },
+          "95": {
+            "value": "#FFE5F1",
             "type": "color"
           }
         },
