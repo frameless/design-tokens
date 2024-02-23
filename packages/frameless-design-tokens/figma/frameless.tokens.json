@@ -161,6 +161,32 @@
             "type": "color"
           }
         },
+        "rosewood": {
+          "50": {
+            "value": "#bd4271",
+            "type": "color"
+          },
+          "60": {
+            "value": "#CA688E",
+            "type": "color"
+          },
+          "70": {
+            "value": "#d78eaa",
+            "type": "color"
+          },
+          "80": {
+            "value": "#E4B4C6",
+            "type": "color"
+          },
+          "90": {
+            "value": "#F2D9E3",
+            "type": "color"
+          },
+          "95": {
+            "value": "#F8EBF0",
+            "type": "color"
+          }
+        },
         "maroon": {
           "10": {
             "value": "#39051F",
