@@ -177,6 +177,10 @@
           "40": {
             "value": "#B30F61",
             "type": "color"
+          },
+          "50": {
+            "value": "#E2127A",
+            "type": "color"
           }
         },
         "green": {
