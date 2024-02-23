@@ -181,6 +181,10 @@
           "50": {
             "value": "#E2127A",
             "type": "color"
+          },
+          "60": {
+            "value": "#ef3994",
+            "type": "color"
           }
         },
         "green": {
